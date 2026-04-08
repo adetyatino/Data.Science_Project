@@ -67,11 +67,12 @@ Memastikan perangkat lunak berikut sudah terinstal di komputer, berikut yang har
 ```bash
    pip install pandas numpy matplotlib seaborn streamlit scikit-learn joblib
 ```
-    - Pandas: Untuk manipulasi dan analisis data CSV.
-    - Matplotlib & Seaborn: Untuk pembuatan grafik dan visualisasi data.
-    - Streamlit: Framework untuk membangun dashboard bisnis interaktif.
-    - Scikit-learn: Untuk pemodelan machine learning (Random Forest) guna memprediksi attrition.
-    - Joblib: Untuk menyimpan dan memuat model yang telah dilatih.
+#### Pengertian
+Pandas: Untuk manipulasi dan analisis data CSV.
+Matplotlib & Seaborn: Untuk pembuatan grafik dan visualisasi data.
+Streamlit: Framework untuk membangun dashboard bisnis interaktif.
+Scikit-learn: Untuk pemodelan machine learning (Random Forest) guna memprediksi attrition.
+Joblib: Untuk menyimpan dan memuat model yang telah dilatih.
 
 2. Install All the Requirements Inside "requirements.txt"
 ```bash
